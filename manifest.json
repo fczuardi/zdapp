@@ -1,0 +1,15 @@
+{
+  "name": "ZDApp",
+  "author": {
+    "name": "Fabricio C Zuardi",
+    "email": "fabricio@fabricio.org",
+    "url": "https://github.com/calamar-io"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": { "zendesk":
+    { "ticket_sidebar": "assets/iframe.html" }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
